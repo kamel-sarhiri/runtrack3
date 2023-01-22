@@ -16,7 +16,7 @@
     <div id="melangees"></div>
     <div id="win"><strong>Vous avez gagné !</strong></div>
     <div id="lose"><strong>Vous avez perdu !</strong></div>
-    <script src="../../jquery-3.6.3.min.js"></script> <!-- Inclusion jQuery de manière optimisée -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script> 
     <script src="script.js"></script>
 </body>
 </html>
