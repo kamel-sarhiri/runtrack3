@@ -14,7 +14,7 @@
     <button id="hide">Hide text</button>
     <p>Les logiciels et les cathédrales, c'est un peu la même chose - d'abord on les construit,
         ensuite on prie.</p>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script> <!-- Inclusion de JQuery de manière optimisée -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script> <!-- Inclusion de JQuery de manière optimisée avec CDN google -->
     <script src="script.js"></script>
 </body>
 </html>
