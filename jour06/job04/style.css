@@ -58,6 +58,12 @@ li {
   margin-left: 3%;
 }
 
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
 @media (max-width: 767px) {
   nav {
     width: 80%;
@@ -82,9 +88,13 @@ li {
   nav ul {
     position: absolute;
     top: 0%;
-    background-color: coral;
-
+    background-color: grey;
     transform: translateY(50%);
+  }
+
+  nav a {
+    color: white;
+    text-decoration: none;
   }
 
   .burger-icon span {
