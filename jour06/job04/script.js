@@ -4,6 +4,6 @@ document.addEventListener("DOMContentLoaded", function loaded() {
   let nav = document.querySelector("nav");
 
   buttonBurger.addEventListener("click", function () {
-    nav.classList.toggle("");
+    nav.classList.toggle("open");
   });
 });
