@@ -1,13 +1,14 @@
-main {
-  display: flex;
-  flex-direction: row;
-}
+@media (min-width: 1600px) {
+  main {
+    display: flex;
+  }
 
-section {
-  background-color: #88c1d0;
-  width: 350px;
-  height: 150px;
-  margin: 3%;
+  section {
+    background-color: #88c1d0;
+    width: 25%;
+    height: 150px;
+    margin: 3%;
+  }
 }
 
 @media (max-width: 1599px) and (min-width: 768px) {
